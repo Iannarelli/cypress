@@ -1,0 +1,29 @@
+{
+  "name": "cypress-testing-project",
+  "version": "1.0.0",
+  "description": "Automated Software testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iannarelli/cypress-testing-project.git"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iannarelli/cypress-testing-project/issues"
+  },
+  "homepage": "https://github.com/Iannarelli/cypress-testing-project#readme",
+  "dependencies": {
+    "cypress": "^4.3.0",
+    "prettier": "^2.0.2"
+  }
+}
